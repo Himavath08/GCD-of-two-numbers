@@ -32,7 +32,7 @@ def gcd():
 ```
 
 ## Output:
-![image](https://github.com/Himavath08/GCD-of-two-numbers/assets/139110631/cbaffcab-db63-4a82-b0c1-3fe9023e0332)
+![Screenshot 2023-12-28 083134](https://github.com/Himavath08/GCD-of-two-numbers/assets/139110631/fb94ccc2-14bb-475d-85eb-1a998b0c91b2)
 
 
 
